@@ -1,0 +1,7 @@
+C:\Users\nateb\source\repos\Keyauth-console-loader\Keyauth-console-loader\obj\Debug\Keyauth-console-loader.csproj.AssemblyReference.cache
+C:\Users\nateb\source\repos\Keyauth-console-loader\Keyauth-console-loader\obj\Debug\Keyauth-console-loader.csproj.CoreCompileInputs.cache
+C:\Users\nateb\source\repos\Keyauth-console-loader\Keyauth-console-loader\bin\Debug\Keyauth-console-loader.exe.config
+C:\Users\nateb\source\repos\Keyauth-console-loader\Keyauth-console-loader\bin\Debug\Keyauth-console-loader.exe
+C:\Users\nateb\source\repos\Keyauth-console-loader\Keyauth-console-loader\bin\Debug\Keyauth-console-loader.pdb
+C:\Users\nateb\source\repos\Keyauth-console-loader\Keyauth-console-loader\obj\Debug\Keyauth-console-loader.exe
+C:\Users\nateb\source\repos\Keyauth-console-loader\Keyauth-console-loader\obj\Debug\Keyauth-console-loader.pdb
